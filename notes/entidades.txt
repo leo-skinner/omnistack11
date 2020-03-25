@@ -1,0 +1,17 @@
+Entidades do Projeto:
+
+ONG
+Caso (incident)
+
+Funcionalidades:
+
+Ong:
+    Login
+    Logout
+    Cadastrar Ong
+    Cadastrar incident
+    Deletar incident
+    Listar incident específico
+
+Listar todos os casos
+Entrar em contato com a Ong
